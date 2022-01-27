@@ -25,12 +25,10 @@
     <br />
     This application uses the Unlicense license. 
   
-   ## Contributing
+   ## Pictures
    
-
-   ## Tests
+      <img width="1436" alt="image1" src="https://user-images.githubusercontent.com/88800713/142569262-fb22101e-4347-4f10-a6c4-42129f7afe79.png">
    
-
    ## Support
     Email me with any questions @fakeeamil.com
     
